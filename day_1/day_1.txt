@@ -1,0 +1,26 @@
+Day 1 – 11/06/2025
+Python Practice Summary
+
+Today I worked on the following Python fundamentals:
+
+Looping constructs (for and while)
+
+Conditional statements and logic
+
+Basic number operations (printing, factorial, digit sum)
+
+Prime number checking
+
+Fibonacci series generation
+
+String manipulation (vowel counting, character frequency)
+
+List operations (finding max, removing duplicates, unique elements)
+
+Dictionary operations (merging, counting frequency)
+
+Tuple sorting using lambda functions
+
+Type conversions (list, set, dict)
+
+This session helped reinforce my understanding of core Python syntax and logic building.
