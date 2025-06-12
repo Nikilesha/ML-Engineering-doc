@@ -1,0 +1,16 @@
+Day 2 – 12/06/2025
+Python OOP Basics
+
+Today I explored the fundamentals of Object-Oriented Programming (OOP) in Python. Although it was a light day, I continued my learning streak by understanding:
+
+How to define a class and create objects
+
+The use of the __init__ constructor to initialize object attributes
+
+Defining and calling methods within a class
+
+Example concept covered:
+
+A simple Dog class with attributes (name, age) and a method (bark())
+
+I didn’t cover much today, but I made sure to stay consistent and kept the momentum going. Small steps count.
