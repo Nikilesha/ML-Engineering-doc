@@ -1,0 +1,31 @@
+Day 3 – 13/06/2025
+OOP Concepts and Mini Project
+
+Today, I continued strengthening my understanding of Object-Oriented Programming and explored some real-world applications of OOP. Key topics covered:
+
+Class and Object Creation
+
+Encapsulation
+
+Usage of public, protected, and private attributes
+
+Methods and Object Behavior
+
+Writing class methods to interact with attributes
+
+Banking System Simulation
+
+Created a basic interactive banking system with PIN authentication and deposit/withdrawal functionality
+
+Inheritance & Abstraction
+
+Used inheritance for Student and Professor classes from a common User base class
+
+Implemented abstract methods using the abc module
+
+University Course Management System
+
+Modeled a basic structure with Department, Course, Student, and Professor classes to simulate a real-world application
+
+Day 3 was more productive and focused on applying OOP principles to build real-world inspired mini projects.
+
