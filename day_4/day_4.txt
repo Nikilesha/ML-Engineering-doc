@@ -1,0 +1,16 @@
+Day 4 – 16/06/205
+Jupyter Notebooks & Virtual Environments
+
+Today I got introduced to using Jupyter Notebooks for Python development. It was a bit challenging initially, but as I explored, I began to understand how things work better. Key learnings for the day:
+
+Setting up and working with virtual environments
+
+Running and writing Python code in Jupyter Notebooks
+
+Basic I/O operations and conditionals
+
+Introduction to NumPy and Matplotlib
+
+Created and plotted a simple sine wave using numpy.linspace() and matplotlib.pyplot
+
+It was a foundational step into data-focused workflows. I'm starting to see how different tools in the Python ecosystem come together.
