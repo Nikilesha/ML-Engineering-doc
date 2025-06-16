@@ -1,4 +1,4 @@
-Day 4 – 16/06/205
+Day 4 – 16/06/2025
 Jupyter Notebooks & Virtual Environments
 
 Today I got introduced to using Jupyter Notebooks for Python development. It was a bit challenging initially, but as I explored, I began to understand how things work better. Key learnings for the day:
