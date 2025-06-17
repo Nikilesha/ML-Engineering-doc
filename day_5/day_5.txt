@@ -1,0 +1,46 @@
+Day 5 – 17/06/2025
+NumPy Fundamentals
+
+Today I focused on deepening my understanding of NumPy, one of the core libraries for numerical computing in Python. Here’s what I covered:
+
+Array Creation and Indexing
+
+Created 1D and 2D arrays using np.array()
+
+Accessed and modified specific elements
+
+Array Properties
+
+Explored .shape, .ndim, .size, .dtype of arrays
+
+Data Types and Type Conversion
+
+Used dtype to enforce and inspect array data types, including handling of mixed types
+
+Array Initialization
+
+Learned to use np.full(), np.ones(), and np.empty() for array creation
+
+Generating Sequences
+
+Used np.arange() and np.linspace() for generating ranges and evenly spaced values
+
+Special Values
+
+Handled np.nan and np.inf, and checked for them using np.isnan() and np.isinf()
+
+Vectorized Operations
+
+Performed element-wise arithmetic on arrays
+
+Compared how lists and NumPy arrays behave differently during operations
+
+Broadcasting
+
+Practiced broadcasting rules by adding arrays of different shapes
+
+Mathematical Functions
+
+Applied universal functions like np.sqrt(), np.sin(), np.cos(), and np.tan() on arrays
+
+Today gave me hands-on experience with NumPy’s power and efficiency. Working with arrays, broadcasting, and universal functions really opened my eyes to how data science tools are structured.
