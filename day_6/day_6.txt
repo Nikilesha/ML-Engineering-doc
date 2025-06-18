@@ -1,0 +1,30 @@
+Day 6 – 18/06/2025
+NumPy Matrix Operations & Statistics
+
+Today I explored more advanced operations using NumPy, focusing primarily on matrix-based statistical analysis. Here’s what I practiced:
+
+Matrix Initialization
+
+Generated random m x n matrices using np.random.randint()
+
+Descriptive Statistics
+
+Calculated:
+
+Mean (np.mean)
+
+Median (np.median)
+
+Standard Deviation (np.std)
+
+Variance (np.var)
+
+Maximum and Minimum values (np.max, np.min)
+
+Matrix Operations
+
+Computed the transpose of a matrix using .T
+
+Analyzed correlation coefficients using np.corrcoef()
+
+Day 6 was all about getting hands-on with real data-like structures and extracting insights using NumPy’s built-in statistical tools. It was a great continuation into data analysis.
